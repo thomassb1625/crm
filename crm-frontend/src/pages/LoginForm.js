@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import logo from './pic.png';
+import logo from './logo.png';
 
 
 export default function LoginForm() {
